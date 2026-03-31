@@ -21,7 +21,7 @@
   ### Languages I Use
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=luau,python,php&perline=3" width="280" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=lua,python,php&perline=3" width="300" alt="Languages" />
   </p>
 
 </div>
